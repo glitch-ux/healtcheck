@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zSHCubn5BD+YEeVA8F6w0qIDd65SbQi9x31TE6yDQxU=",
+  "Source": "health-check",
+  "BasePath": "_content/health-check",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

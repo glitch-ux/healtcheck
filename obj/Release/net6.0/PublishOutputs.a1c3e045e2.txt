@@ -1,0 +1,5 @@
+C:\Users\jose.p.maia\Desktop\HellowWorld\practical-aspnetcore\projects\health-check\health-check-1\bin\Release\net6.0\publish\health-check.exe
+C:\Users\jose.p.maia\Desktop\HellowWorld\practical-aspnetcore\projects\health-check\health-check-1\bin\Release\net6.0\publish\health-check.dll
+C:\Users\jose.p.maia\Desktop\HellowWorld\practical-aspnetcore\projects\health-check\health-check-1\bin\Release\net6.0\publish\health-check.deps.json
+C:\Users\jose.p.maia\Desktop\HellowWorld\practical-aspnetcore\projects\health-check\health-check-1\bin\Release\net6.0\publish\health-check.runtimeconfig.json
+C:\Users\jose.p.maia\Desktop\HellowWorld\practical-aspnetcore\projects\health-check\health-check-1\bin\Release\net6.0\publish\health-check.pdb
